@@ -1,0 +1,310 @@
+{
+    "continents": [
+        {
+            "id": 0,
+            "name": "América do Norte",
+            "slug": "america-do-norte",
+            "excerpt": "O novo mundo do norte",
+            "slide_image": "https://images.unsplash.com/photo-1485871981521-5b1fd3805eee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "banner": "https://images.unsplash.com/photo-1589871090211-7f2efeec05b6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+            "description": "A América do Norte corresponde à parte norte do continente americano, é formada por três países, Estados Unidos, Canadá e México, que ocupam juntos uma área de 23,6 milhões de quilômetros quadrados.",
+            "countries_number": 3,
+            "languages": 15,
+            "plus_cities": 17
+        },
+        {
+            "id": 1,
+            "name": "América do Sul",
+            "slug": "america-do-sul",
+            "excerpt": "O novo mundo do sul",
+            "slide_image": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "banner": "https://images.unsplash.com/photo-1526392060635-9d6019884377?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "description": "A América do Sul é um continente que compreende a porção meridional da América. Também é considerada um subcontinente do continente americano. A sua extensão é de 17 819 100 km², abrangendo 12% da superfície terrestre e 6% da população mundial.",
+            "countries_number": 12,
+            "languages": 34,
+            "plus_cities": 8
+        },
+        {
+            "id": 2,
+            "name": "Ásia",
+            "slug": "asia",
+            "excerpt": "Muita cultura loca",
+            "slide_image": "https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "banner": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+            "description": "A Ásia é o maior dos continentes, tanto em área como em população. Abrange um terço das partes sólidas da superfície da Terra e é responsável por abrigar quase três quintos da população mundial.",
+            "countries_number": 50,
+            "languages": 84,
+            "plus_cities": 43
+        },
+        {
+            "id": 3,
+            "name": "África",
+            "slug": "africa",
+            "excerpt": "It's time for Africa",
+            "slide_image": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+            "banner": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "description": "A África é o terceiro continente mais extenso com cerca de 30 milhões de quilômetros quadrados, cobrindo 20,3% da área total da terra firme do planeta. É o segundo continente mais populoso da Terra com cerca de um bilhão de pessoas, representando cerca de um sétimo da população mundial, e 54 países independentes.",
+            "countries_number": 52,
+            "languages": 67,
+            "plus_cities": 5
+        },
+        {
+            "id": 4,
+            "name": "Europa",
+            "slug": "europa",
+            "excerpt": "A velha terrinha",
+            "slide_image": "https://images.unsplash.com/photo-1616432902940-b7a1acbc60b3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "banner": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1420&q=80",
+            "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste.",
+            "countries_number": 50,
+            "languages": 60,
+            "plus_cities": 23
+        },
+        {
+            "id": 5,
+            "name": "Oceania",
+            "slug": "oceania",
+            "excerpt": "Longe pra cacete",
+            "slide_image": "https://images.unsplash.com/photo-1515248027005-c33283ec3fba?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1168&q=80",
+            "banner": "https://images.unsplash.com/photo-1528072164453-f4e8ef0d475a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+            "description": "Oceania ou Oceânia é uma região geográfica composta por vários grupos de ilhas do oceano Pacífico. O termo Oceania foi criado em 1831 pelo explorador francês Dumont d'Urville.",
+            "countries_number": 16,
+            "languages": 23,
+            "plus_cities": 4
+        }
+    ],
+    "cities": [
+        {
+            "city_id": 0,
+            "name": "Hong Kong",
+            "country": "Hong Kong",
+            "flag": "hk",
+            "thumbnail": "https://images.unsplash.com/photo-1518599807935-37015b9cefcb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8SG9uZyUyMEtvbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+            "continent": 2
+        },
+        {
+            "city_id": 1,
+            "name": "Bangkok",
+            "country": "Tailândia",
+            "flag": "th",
+            "thumbnail": "https://images.unsplash.com/photo-1563492065599-3520f775eeed?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8QmFuZ2tva3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+            "continent": 2
+        },
+        {
+            "city_id": 2,
+            "name": "Londres",
+            "country": "Reino Unido",
+            "flag": "gb",
+            "thumbnail": "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bG9uZG9ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "continent": 4
+        },
+        {
+            "city_id": 3,
+            "name": "Macau",
+            "country": "China",
+            "flag": "cn",
+            "thumbnail": "https://images.unsplash.com/photo-1584640962068-f860edeb6f12?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fG1hY2F1fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "continent": 2
+        },
+        {
+            "city_id": 4,
+            "name": "Singapura",
+            "country": "Singapura",
+            "flag": "sg",
+            "thumbnail": "https://media.istockphoto.com/photos/singapore-sky-line-picture-id505773333?b=1&k=20&m=505773333&s=170667a&w=0&h=1Z462Z9LxnWPCx232h5sxNtIjaH2tJVSOFJ4dKW3PAs=",
+            "continent": 2
+        },
+        {
+            "city_id": 5,
+            "name": "Paris",
+            "country": "França",
+            "flag": "fr",
+            "thumbnail": "https://images.unsplash.com/flagged/photo-1562503542-2a1e6f03b16b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8U2luZ2Fwb3JlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "continent": 4
+        },
+        {
+            "city_id": 6,
+            "name": "Dubai",
+            "country": "Emirados Árabes",
+            "flag": "ae",
+            "thumbnail": "https://images.unsplash.com/photo-1580674684081-7617fbf3d745?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8ZHViYWl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+            "continent": 2
+        },
+        {
+            "city_id": 7,
+            "name": "New York",
+            "country": "Estados Unidos",
+            "flag": "us",
+            "thumbnail": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fG5ldyUyMHlvcmt8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+            "continent": 0
+        },
+        {
+            "city_id": 8,
+            "name": "Kuala Lumpur",
+            "country": "Malásia",
+            "flag": "my",
+            "thumbnail": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8S3VhbGElMjBMdW1wdXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+            "continent": 2
+        },
+        {
+            "city_id": 9,
+            "name": "Istanbul",
+            "country": "Turquia",
+            "flag": "tr",
+            "thumbnail": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8SXN0YW5idWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+            "continent": 4
+        },
+        {
+            "city_id": 10,
+            "name": "Delhi",
+            "country": "India",
+            "flag": "in",
+            "thumbnail": "https://images.unsplash.com/photo-1597040663342-45b6af3d91a5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8ZGVsaGl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+            "continent": 2
+        },
+        {
+            "city_id": 11,
+            "name": "Praga",
+            "country": "Tchéquia",
+            "flag": "cz",
+            "thumbnail": "https://images.unsplash.com/photo-1600623471616-8c1966c91ff6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHJhZ3VlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "continent": 4
+        },
+        {
+            "city_id": 12,
+            "name": "Amsterdam",
+            "country": "Holanda",
+            "flag": "nl",
+            "thumbnail": "https://images.unsplash.com/photo-1523889310790-cb91a98b017b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGFtc3RlcmRhbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+            "continent": 4
+        },
+        {
+            "city_id": 13,
+            "name": "Miami",
+            "country": "Estados Unidos",
+            "flag": "us",
+            "thumbnail": "https://images.unsplash.com/photo-1589083130544-0d6a2926e519?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fE1pYW1pfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "continent": 0
+        },
+        {
+            "city_id": 14,
+            "name": "Los Angeles",
+            "country": "Estados Unidos",
+            "flag": "us",
+            "thumbnail": "https://images.unsplash.com/photo-1580655653885-65763b2597d0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8TG9zJTIwQW5nZWxlc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+            "continent": 0
+        },
+        {
+            "city_id": 15,
+            "name": "Barcelona",
+            "country": "Espanha",
+            "flag": "es",
+            "thumbnail": "https://images.unsplash.com/photo-1583422409516-2895a77efded?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmFyY2Vsb25hfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "continent": 4
+        },
+        {
+            "city_id": 16,
+            "name": "Milão",
+            "country": "Itália",
+            "flag": "it",
+            "thumbnail": "https://images.unsplash.com/photo-1610016302534-6f67f1c968d8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWlsYW58ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+            "continent": 4
+        },
+        {
+            "city_id": 17,
+            "name": "Cancun",
+            "country": "México",
+            "flag": "mx",
+            "thumbnail": "https://images.unsplash.com/photo-1552074284-5e88ef1aef18?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Q2FuY3VufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "continent": 1
+        },
+        {
+            "city_id": 18,
+            "name": "Cairo",
+            "country": "Egito",
+            "flag": "eg",
+            "thumbnail": "https://images.unsplash.com/photo-1628101541906-335b667d9b33?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGFuY2llbnQlMjBlZ3lwdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+            "continent": 3
+        },
+        {
+            "city_id": 19,
+            "name": "Toronto",
+            "country": "Canadá",
+            "flag": "ca",
+            "thumbnail": "https://images.unsplash.com/photo-1517090504586-fde19ea6066f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8VG9yb250b3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+            "continent": 0
+        },
+        {
+            "city_id": 20,
+            "name": "Johanesburgo",
+            "country": "África do Sul",
+            "flag": "za",
+            "thumbnail": "https://images.unsplash.com/photo-1577948000111-9c970dfe3743?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8am9oYW5uZXNidXJnfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "continent": 3
+        },
+        {
+            "city_id": 21,
+            "name": "Sydney",
+            "country": "Austrália",
+            "flag": "au",
+            "thumbnail": "https://images.unsplash.com/photo-1523428096881-5bd79d043006?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8U3lkbmV5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "continent": 5
+        },
+        {
+            "city_id": 22,
+            "name": "Melbourne",
+            "country": "Austrália",
+            "flag": "au",
+            "thumbnail": "https://images.unsplash.com/photo-1594300157693-a741f98738c2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8TWVsYm91cm5lfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "continent": 5
+        },
+        {
+            "city_id": 23,
+            "name": "Marrakech",
+            "country": "Marrocos",
+            "flag": "ma",
+            "thumbnail": "https://images.unsplash.com/photo-1564507004663-b6dfb3c824d5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8TW9yb2Njb3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+            "continent": 3
+        },
+        {
+            "city_id": 24,
+            "name": "Auckland",
+            "country": "Nova Zelândia",
+            "flag": "nz",
+            "thumbnail": "https://images.unsplash.com/photo-1600208669687-f19af3638cb9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YXVja2xhbmR8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+            "continent": 5
+        },
+        {
+            "city_id": 25,
+            "name": "Hurghada",
+            "country": "Egito",
+            "flag": "eg",
+            "thumbnail": "https://images.unsplash.com/photo-1601196338693-2d103fcc2d61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8SHVyZ2hhZGF8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+            "continent": 3
+        },
+        {
+            "city_id": 26,
+            "name": "Buenos Aires",
+            "country": "Argentina",
+            "flag": "ar",
+            "thumbnail": "https://images.unsplash.com/photo-1593014109521-48ea09f22592?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8QnVlbm9zJTIwQWlyZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+            "continent": 1
+        },
+        {
+            "city_id": 27,
+            "name": "Lima",
+            "country": "Peru",
+            "flag": "pe",
+            "thumbnail": "https://images.unsplash.com/photo-1577587230708-187fdbef4d91?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8TGltYXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+            "continent": 1
+        },
+        {
+            "city_id": 28,
+            "name": "Rio de Janeiro",
+            "country": "Brazil",
+            "flag": "br",
+            "thumbnail": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmlvJTIwZGUlMjBqYW5laXJvfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+            "continent": 1
+        }
+    ]
+}
